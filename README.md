@@ -42,6 +42,16 @@ git push origin main
 
 ---
 
+## 🔄 Cómo actualizar el repositorio local
+
+Si necesitas actualizar tu repositorio local con cambios recientes realizados en GitHub:
+
+```bash
+git pull origin main
+```
+
+---
+
 ## 📄 Licencia
 
 Este repositorio está bajo la licencia **MIT**, lo que permite:
