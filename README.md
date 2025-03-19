@@ -10,7 +10,7 @@ Bienvenido al repositorio de ejercicios y scripts SQL relacionados con la gesti√
 
 Para descargar el repositorio localmente por primera vez:
 ```bash
-git clone https://github.com/TU_USUARIO/ejercicios-sql.git
+git clone https://github.com/JoseDavila24/ejercicios-sql.git
 ```
 
 2. **Actualizar tu repositorio local:**
