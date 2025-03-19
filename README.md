@@ -32,24 +32,6 @@ git add *.sql
 git commit -m "Breve descripción del ejercicio o cambios realizados"
 git push origin main
 ```
-
-**Ejemplo:**
-```bash
-git add control_prestamos.sql
-git commit -m "Agregada consulta para control de préstamos"
-git push origin main
-```
-
----
-
-## 🔄 Cómo actualizar el repositorio local
-
-Si necesitas actualizar tu repositorio local con cambios recientes realizados en GitHub:
-
-```bash
-git pull origin main
-```
-
 ---
 
 ## 📄 Licencia
