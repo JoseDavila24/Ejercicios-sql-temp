@@ -1,0 +1,7 @@
+Revisar el estado
+
+/etc/init.d/oracle-xe status
+
+Iniciar SQLplus
+
+sqlplus SYS/1234 AS SYSDBA
