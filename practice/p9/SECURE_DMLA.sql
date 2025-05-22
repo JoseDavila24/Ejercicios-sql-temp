@@ -1,0 +1,7 @@
+CREATE OR REPLACE TRIGGER trg_secure_dml
+BEFORE INSERT OR UPDATE OR DELETE ON jobs
+BEGIN
+    secure_dml;
+END;
+/
+
